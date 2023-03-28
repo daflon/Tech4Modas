@@ -31,7 +31,5 @@ public class ProducaoDto {
     }
     public void setDadosRoupa(Roupa dadosRoupa) {
         this.dadosRoupa = dadosRoupa;
-    }
-    
-            
+    }       
 }
